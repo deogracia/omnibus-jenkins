@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary jenkins removal steps
+# after package is uninstalled.
+#
+
+echo "jenkins has been uninstalled!"
+
+exit 0
